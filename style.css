@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Montserrat", sans-serif;
+}
+.banner{
+    background-image: url(https://cdn.shopify.com/s/files/1/0070/7032/files/soap_20wholesale_20suppliers.png?v=1698702883);
+   background-size: cover;
+   height: 700px;
+   width: 1520px;
+   
+
+}
+.banner h1{
+    padding-top: 300px;
+    padding-left: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.banner button{
+    margin-left: 200px;
+    margin-top: 30px;
+   background-color: orange;
+}
+.banner p{
+    padding-left: 200px;
+}
+.services{
+background-color: rgb(242, 220, 236);
+}
+.footer1{
+    background-color:rgb(242, 220, 236) ;
+}
